@@ -1,0 +1,51 @@
+Game Design Document
+Fill up the following document 
+
+
+
+
+1.	Write the title of your project.
+Magic Tiles
+
+
+2.	What is the goal of the game? 
+The goal of the game is to touch the tiles,in order to score points.
+
+
+
+3.	Write a brief story of your game.
+The game has a space ship, which is controlled by your arrow keys.
+ We have to touch each tile, to move ahead and score points. 
+ If we miss a tile, the game ends. 
+ The game has different levels.
+
+
+
+ 
+4.	Which are the playing characters of this game? 
+●	Playing characters are the ones who respond to the user based on the input from the user.
+●	Cars, monkeys, dinos, wizards, etc., are the playing characters in the game.  
+
+
+1	Spaceship-The spaceship can use arrow keys to move ahead 
+	
+	
+ 
+6.	Which are the Non-Playing Characters of this game?
+●	Non-Playing characters are the ones that don't have an action or behavior when the user interacts with the game.
+●	Hurdles, stones, bananas, coins, etc., are non-playing characters in the game.   
+
+
+1	Tiles-	Tiles are randomely displayed in the game
+	
+
+
+Draw your imagination of this game. What does this game look like?
+●	Draw the game either on your computer or on paper. 
+●	Add images of the game scenes to show each of the playing and non-playing characters at least once.  
+
+
+
+How do you plan to make your game engaging? 
+The game has scorecard and different levels, to make it interesting.
+
